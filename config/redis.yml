@@ -1,0 +1,4 @@
+pings:
+  development: localhost:6379
+arp_cache:
+  development: localhost:6379

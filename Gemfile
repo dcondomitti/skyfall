@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'sinatra'
+gem 'activerecord'
+gem 'redised'
+gem 'sinatra-activerecord'
+gem 'sqlite3'
+gem 'unicorn'
+gem 'shotgun'
+gem 'rake'
+gem 'tux'

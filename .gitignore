@@ -1,0 +1,4 @@
+bin/
+vendor/bundle
+.DS_Store
+skyfall.sqlite3
